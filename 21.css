@@ -1,0 +1,59 @@
+body {
+     /* background-color: palegreen; */
+     background-image: url(https://wallpaperplay.com/walls/full/d/f/1/100151.jpg);
+    overflow-x: hidden;
+}
+
+#btn1:hover {
+
+    background-color: tomato;
+  box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+  color: #fff;
+  transform: translateY(-5px);
+
+}
+
+#btn2:hover {
+
+    background-color: tomato;
+  box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+  color: #fff;
+  transform: translateY(-5px);
+
+}
+
+#btn3:hover {
+
+    background-color: tomato;
+  box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+  color: #fff;
+  transform: translateY(-5px);
+
+}
+
+#btn4:hover {
+
+    background-color: turquoise;
+  box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+  color: #fff;
+  transform: translateY(-5px);
+
+}
+
+#btn5:hover {
+
+    background-color: turquoise;
+  box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+  color: #fff;
+  transform: translateY(-5px);
+
+}
+
+#btn6:hover {
+
+    background-color: turquoise;
+  box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+  color: #fff;
+  transform: translateY(-5px);
+
+}
